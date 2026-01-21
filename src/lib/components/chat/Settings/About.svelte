@@ -155,10 +155,10 @@
 		<div>
 			<pre
 				class="text-xs text-gray-400 dark:text-gray-500">Copyright (c) {new Date().getFullYear()} <a
-					href="https://openwebui.com"
+					href="https://samansalari.com"
 					target="_blank"
-					class="underline">Open WebUI Inc.</a
-				> <a href="https://github.com/open-webui/open-webui/blob/main/LICENSE" target="_blank"
+					class="underline">Saman Salari</a
+				> <a href="https://samansalari.com" target="_blank"
 					>All rights reserved.</a
 				>
 </pre>
@@ -168,8 +168,8 @@
 			{$i18n.t('Created by')}
 			<a
 				class=" text-gray-500 dark:text-gray-300 font-medium"
-				href="https://github.com/tjbck"
-				target="_blank">Timothy J. Baek</a
+				href="https://samansalari.com"
+				target="_blank">Saman Salari</a
 			>
 		</div>
 	</div>

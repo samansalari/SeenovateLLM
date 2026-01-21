@@ -1,8 +1,8 @@
 [project]
-name = "open-webui"
-description = "Open WebUI"
+name = "torabisignals-llm"
+description = "Torabisignals LLM"
 authors = [
-    { name = "Timothy Jaeryang Baek", email = "tim@openwebui.com" }
+    { name = "Saman Salari", email = "contact@samansalari.com" }
 ]
 license = { file = "LICENSE" }
 dependencies = [
