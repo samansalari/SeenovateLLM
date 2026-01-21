@@ -1,11 +1,6 @@
 {
-<<<<<<< HEAD
 	"name": "torabisignals-llm",
-	"version": "0.6.43",
-=======
-	"name": "open-webui",
 	"version": "0.7.1",
->>>>>>> 5d30bbadfd1e0d35c97418255989cea9029909f5
 	"private": true,
 	"scripts": {
 		"dev": "npm run pyodide:fetch && vite dev --host",
